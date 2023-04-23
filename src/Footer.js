@@ -41,10 +41,10 @@ const Footer = () => {
     <div style={styles.footer}>
       <Container maxWidth="lg">
         <div style={footerStyles}>
-        <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/ahmed-ait-taleb-526b61212/" target="_blank" rel="noopener noreferrer">
         <FontAwesomeIcon icon={faLinkedin} style={iconStyles} />
       </a>
-      <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/ahmedX999" target="_blank" rel="noopener noreferrer">
         <FontAwesomeIcon icon={faGithub} style={iconStyles} />
       </a>
         </div>
