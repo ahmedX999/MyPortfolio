@@ -40,6 +40,7 @@ const Footer = () => {
   return (
     <div style={styles.footer}>
       <Container maxWidth="lg">
+        <p>© 2023 Contactez moi : <a href="mailto:ahmedaittaleb999@gmail.com">ahmedaittaleb999@gmail.com</a> </p> 
         <div style={footerStyles}>
         <a href="https://www.linkedin.com/in/ahmed-ait-taleb-526b61212/" target="_blank" rel="noopener noreferrer">
         <FontAwesomeIcon icon={faLinkedin} style={iconStyles} />
