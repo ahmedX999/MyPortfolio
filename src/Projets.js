@@ -1,4 +1,5 @@
 import { Card, CardActionArea, CardContent, CardMedia, Typography } from '@mui/material';
+import { Button } from 'react-bootstrap';
 
 const cards = [
   {
@@ -7,6 +8,7 @@ const cards = [
     description:
       'Site web de vente en ligne de poterie artisanale',
     image: 'https://maisonsearamic.com/wp-content/uploads/2022/06/LOGO-1.png',
+    link:'https://maisonsearamic.com/',
   },
   {
     id: 2,
@@ -14,6 +16,7 @@ const cards = [
     description:
       'Application Mobile des Apis de Pokemon',
     image: 'https://www.pokemon.com/static-assets/app/static3/img/og-default-image.jpeg',
+    link:'#'
   },
 
   {
@@ -22,6 +25,7 @@ const cards = [
     description:
       'Application Web & Mobile de reservation des terrains',
     image: 'https://trello.com/1/cards/6410eec0c39050b94d887cac/attachments/64149c5c48232595e1f0b829/previews/64149c5d48232595e1f0b890/download/logo11.png',
+    link:'#'
   },
 
   {
@@ -30,6 +34,7 @@ const cards = [
     description:
       'Application Desktop de gestion des salles de sport',
     image: 'https://static.vecteezy.com/system/resources/thumbnails/007/412/690/small/fitness-logo-template-gym-club-logotype-sportsman-silhouette-character-logo-design-template-design-element-for-logo-poster-card-banner-emblem-t-shirt-illustration-vector.jpg',
+    link:'#'
   },
   {
     id: 5,
@@ -37,6 +42,7 @@ const cards = [
     description:
       'Application web de Ecommerce',
     image: 'https://d1p9wirkq0k00v.cloudfront.net/wp-content/uploads/2015/09/06130709/204114-Sellify-Logo-04-c85952-large-1460625248.png',
+    link:'#'
   },
 
   {
@@ -45,7 +51,8 @@ const cards = [
     description:
       'Application web de Gestion de projet',
     image: 'https://myproject.fr/images/myproject/landing/my-project-landing.png',
-  },
+    link:'#'
+    },
  
 
   
@@ -76,6 +83,7 @@ const Projets = () => {
                 {card.description}
               </Typography>
             </CardContent>
+            <Button href={card.link} target="_blank" rel="noopener noreferrer" >Visit</Button>
           </CardActionArea>
         </Card>
       ))}
