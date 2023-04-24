@@ -3,30 +3,30 @@ import { Card, CardActionArea, CardContent, CardMedia, Typography } from '@mui/m
 const cards = [
   {
     id: 1,
-    title: 'Lizard',
+    title: 'Course : University of Michigan',
     description:
-      'Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica',
+      'Data Collection and Processing with Python',
     image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CZL7DW5PRDWZ/CERTIFICATE_LANDING_PAGE~CZL7DW5PRDWZ.jpeg',
   },
   {
     id: 2,
-    title: 'Lizard',
+    title: 'Course : University of Michigan',
     description:
-      'Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica',
+      'Python Functions, Files, and Dictionaries',
     image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9BTPKBYL6E6V/CERTIFICATE_LANDING_PAGE~9BTPKBYL6E6V.jpeg',
   },
   {
     id: 3,
-    title: 'Lizard',
+    title: 'Course : Meta',
     description:
-      'Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica',
+      'Advanced React',
     image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HTSZSEUCQD8Y/CERTIFICATE_LANDING_PAGE~HTSZSEUCQD8Y.jpeg',
   },
   {
     id: 4,
-    title: 'Lizard',
+    title: 'Course : IBM',
     description:
-      'Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica',
+      'DevOps, Cloud, and Agile Foundations Specialization',
     image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UBHKPQCGR4C5/CERTIFICATE_LANDING_PAGE~UBHKPQCGR4C5.jpeg',
   },
   
