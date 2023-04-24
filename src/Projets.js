@@ -16,7 +16,7 @@ const cards = [
     description:
       'Application Mobile des Apis de Pokemon',
     image: 'https://www.pokemon.com/static-assets/app/static3/img/og-default-image.jpeg',
-    link:'#'
+    link:'https://github.com/ahmedX999/Pokemon-Api'
   },
 
   {
@@ -25,7 +25,7 @@ const cards = [
     description:
       'Application Web & Mobile de reservation des terrains',
     image: 'https://trello.com/1/cards/6410eec0c39050b94d887cac/attachments/64149c5c48232595e1f0b829/previews/64149c5d48232595e1f0b890/download/logo11.png',
-    link:'#'
+    link:'https://github.com/ahmedX999/GoalFinder-Frontend'
   },
 
   {
@@ -34,7 +34,7 @@ const cards = [
     description:
       'Application Desktop de gestion des salles de sport',
     image: 'https://static.vecteezy.com/system/resources/thumbnails/007/412/690/small/fitness-logo-template-gym-club-logotype-sportsman-silhouette-character-logo-design-template-design-element-for-logo-poster-card-banner-emblem-t-shirt-illustration-vector.jpg',
-    link:'#'
+    link:'https://github.com/ahmedX999/GymManagementSystem'
   },
   {
     id: 5,
