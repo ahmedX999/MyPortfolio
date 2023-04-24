@@ -23,7 +23,7 @@ export default function Formation() {
           <Typography sx={{ width: '33%', flexShrink: 0 }}>
           Ingénierie Informatique et Réseaux
           </Typography>
-          <Typography sx={{ color: 'text.secondary' }}>Ecole Marocaine des Sciences de l'Ingénieur (EMSI)</Typography>
+          <Typography sx={{ color: 'text.secondary' }}>Ecole Marocaine des Sciences de l'Ingénieur (EMSI) 2021-En cours</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography sx={{ textAlign:'justify'}}>
@@ -47,7 +47,7 @@ En outre, l'EMSI encourage l'innovation, la créativité et l'entrepreneuriat, e
           <Typography sx={{ width: '33%', flexShrink: 0 }}>
           Brevet de Technicien Supérieur
           </Typography>
-          <Typography sx={{ color: 'text.secondary' }}>CENTRE BTS HASSAN II</Typography>
+          <Typography sx={{ color: 'text.secondary' }}>CENTRE BTS HASSAN II  2019-2021</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography sx={{ textAlign:'justify'}}>
@@ -63,9 +63,9 @@ En outre, l'EMSI encourage l'innovation, la créativité et l'entrepreneuriat, e
           id="panel3bh-header"
         >
           <Typography sx={{ width: '33%', flexShrink: 0 }}>
-          BAC Sciences et Technologies Electriques
+          BAC Sciences et Technologies Electriques 
           </Typography>
-          <Typography sx={{ color: 'text.secondary' }}>LYCEE MOHAMMED VI</Typography>
+          <Typography sx={{ color: 'text.secondary' }}>LYCEE MOHAMMED VI 2017-2019</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography sx={{ textAlign:'justify'}}>

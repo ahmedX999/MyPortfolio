@@ -1,11 +1,12 @@
 import React from 'react';
-import img1 from './avatar-man.png'
+
+import img2 from './pdp2.jpeg'
 
 const Header = () => {
     return (
         <section style={{  }}>
             <header className="header">
-                <img src={img1} alt="Ma photo de profil" className="rounded-circle mt-3 me-3" style={{ width: 210, height: 220 }} />
+                <img src={img2} alt="Ma photo de profil" className="rounded-circle mt-3 me-3" style={{ width: 180, height: 250 }} />
                 <h1>AIT TALEB Ahmed</h1>
                 <h2>Étudiant ingénieur informatique et réseau et développeur web à temps partiel</h2>
              
